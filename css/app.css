@@ -1,0 +1,17 @@
+body {
+  background-color: #eba832;
+}
+h1 {
+  text-align: center;
+}
+.nav-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+img {
+  border-radius: 5px;
+  margin: 30px auto;
+}
+p {
+  text-align: center;
+}
